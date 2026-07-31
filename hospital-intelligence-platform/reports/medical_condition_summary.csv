@@ -1,0 +1,7 @@
+medical_condition,total_patients,total_billing,average_billing,average_length_of_stay,average_billing_per_day
+Arthritis,9218,235454997.77,25542.96,15.5,3414.09
+Asthma,9095,233606929.54,25685.2,15.68,3385.47
+Cancer,9140,230389518.28,25206.73,15.5,3307.03
+Diabetes,9216,236980943.02,25714.08,15.43,3400.88
+Hypertension,9151,233898820.95,25559.92,15.44,3425.64
+Obesity,9146,236503342.3,25858.66,15.45,3457.27

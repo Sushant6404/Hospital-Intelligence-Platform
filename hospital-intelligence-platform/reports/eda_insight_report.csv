@@ -1,0 +1,9 @@
+Insight,Result
+Most common medical condition,Arthritis
+Highest total billing condition,Diabetes
+Highest average billing condition,Obesity
+Longest average stay condition,Asthma
+Highest billing insurance provider,Cigna
+Most common admission type,Elective
+Most common test result,Abnormal
+Billing and LOS correlation,-0.0048

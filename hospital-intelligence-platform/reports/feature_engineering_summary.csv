@@ -1,0 +1,15 @@
+feature_name,data_type,unique_values,missing_values
+length_of_stay_category,category,4,0
+age_band,category,6,0
+admission_month_number,int32,12,0
+admission_season,object,4,0
+admission_day_type,object,2,0
+billing_category,category,4,0
+billable_days,int64,30,0
+billing_per_day,float64,47514,0
+insurance_type,object,2,0
+long_stay_flag,object,2,0
+high_billing_flag,object,2,0
+analytical_risk_segment,object,3,0
+patient_outcome_label,object,3,0
+stay_cost_intensity,object,2,0
